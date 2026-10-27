@@ -26,11 +26,11 @@
 ### 🔥 About Me:
 
 - 🔭 **Currently Working On:** [Anti-Deepfake-Video-Converter](https://github.com/kumarsuraj345678/Anti-Deepfake-Video-Converter)
-- 🌱 **Currently Learning:** React Native & Next.js
+- 🌱 **Currently Learning:** TypeScript & Next.js
 - 👯 **Looking to Collaborate On:** [Anti-Deepfake-Video-Converter](https://github.com/kumarsuraj345678/Anti-Deepfake-Video-Converter)
 - 💬 **Ask Me About:** React, Tailwind CSS, API Integration, JavaScript
 - ⚡ **Fun Fact:** 🚀 Frontend development is 50% coding and 50% Googling.
-- 🎯 **Goal for 2025:** Build a SaaS project using Next.js and AI-powered tools.
+- 🎯 **Goal for 2026:** Build a SaaS project using Next.js and AI-powered tools.
 
 ---
 
